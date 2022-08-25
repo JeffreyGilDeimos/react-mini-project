@@ -3,7 +3,7 @@ import React from "react";
 export default function Footer() {
   return (
     // <!-- ---- Footer---- -->
-    <footer class="p-4 bgred position-relative">
+    <footer class="p-4 bg-danger position-relative shadow-lg">
       <div class="container">
         <div class="d-flex align-items-center flex-column text-light">
           <p class="m-0 fs-6">Follow Gale ArtCakes at</p>
